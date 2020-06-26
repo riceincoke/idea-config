@@ -1,0 +1,62 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="shift t" />
+  </action>
+  <action id="$TranslateAndReplaceAction">
+    <keyboard-shortcut first-keystroke="shift r" />
+  </action>
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateMavenProjectsToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="ActivateRunDashboardToolWindow">
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
+  <action id="ActivateRunToolWindow" />
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt period" />
+  </action>
+  <action id="CollapseSelection">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="ContextHelp" />
+  <action id="Editor EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="shift t" />
+  </action>
+  <action id="Editor TranslateAndReplaceAction">
+    <keyboard-shortcut first-keystroke="shift r" />
+  </action>
+  <action id="EditorPasteFromX11" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="alt comma" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="control button1" />
+  </action>
+  <action id="Grails.Interceptor">
+    <keyboard-shortcut first-keystroke="shift i" />
+  </action>
+  <action id="Grails.Service">
+    <keyboard-shortcut first-keystroke="shift s" />
+  </action>
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="shift c" />
+  </action>
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="shift p" />
+  </action>
+  <action id="NewScratchFile" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt enter" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
+</keymap>
